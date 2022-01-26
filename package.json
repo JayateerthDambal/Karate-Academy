@@ -1,0 +1,20 @@
+{
+    "name": "zyoung",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "dev": "nodemon server.js",
+        "start": "node server.js"
+    },
+    "keywords": [
+        "My",
+        "app"
+    ],
+    "author": "Rupesh",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.2",
+        "nodemailer": "^6.7.2"
+    }
+}
